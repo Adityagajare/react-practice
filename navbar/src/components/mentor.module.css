@@ -1,0 +1,33 @@
+#mentor{
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: darkgray;
+}
+#mentor h1 a{
+    text-decoration: none;
+    color: chartreuse;
+    margin-left: 80px;
+}
+#mentor ul{
+    display: flex;
+    list-style: none;
+    width: 1000px;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: larger;
+}
+#mentor ul li a{
+    text-decoration: none;
+    color: black;
+}
+#mentor ul li a button{
+    height: 35px;
+    width: 120px;
+    background-color: rgb(114, 180, 14);
+    color: white;
+    border-radius: 20px;
+    border: 0;
+    font-size: 17px;
+}

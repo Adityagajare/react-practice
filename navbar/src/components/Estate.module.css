@@ -1,0 +1,46 @@
+#estate{
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: bisque;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    width: 600px;
+    align-items: center;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-weight: 700;
+}
+.search button{
+    border: 0;
+    background-color: chartreuse;
+    height: 30px;
+    margin-right: 50px;
+    align-items: center;
+    align-content: center;
+}
+.search button img{
+    height: 25px;
+    width: 20px;
+    margin-right: 10px;
+}
+.logo a{
+    display: flex;
+    font-size: 40px;
+    font-weight: 700;
+    text-decoration: none;
+    margin-left: 60px;
+}
+.firstWord{
+    color: black;
+}
+.secWord{
+    color: green;
+}

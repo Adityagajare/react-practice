@@ -1,0 +1,173 @@
+[
+    {
+        "actorPhoto" : "https://m.media-amazon.com/images/M/MV5BMDM3YWYxZjktNThlYy00MDEzLThhYjctMTBjMjljYzA1M2RhXkEyXkFqcGdeQXVyNzY3MTExNTA@._V1_.jpg",
+        "actorName" : "Vishnuvardhan",
+        "movies" : ["Yajamana","Simhadri Simha","Nagarahavu","Aptamitra","Kotigobba"],
+        "languages" : "Kannada"
+    },
+    {
+        "actorPhoto" : "https://static.toiimg.com/thumb/msid-83720303,width-400,resizemode-4/83720303.jpg",
+        "actorName" : "Rajkumar",
+        "movies" : ["Akasmika","Shabdavedi","Babruvahana","Jeevan chairta","Bangarada manushya"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://i.zoomtventertainment.com/story/cover_1.jpg",
+        "actorName" : "Shankar Nag",
+        "movies" : ["Geeta","Hosajeevana","Auto raja"," S P Sangliyana","Accident"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0S_qrs6cn0YSmHFtOdjS71tbwNbVuy_OuXA&usqp=CAU",
+        "actorName" : "Ambarish",
+        "movies" : ["Anta","Diggajaru","Chakravyuha","olavina udugore","Indrajeet"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://i.pinimg.com/474x/46/0c/1c/460c1c87cc7094f4e8307c8cc382598f.jpg",
+        "actorName" : "Ravichandran",
+        "movies" : ["Premaloka","Ranadheera","Malla","Ekangi","Kanasugara"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/03/28/Pictures/_95284ce6-327a-11e8-a509-12b0194ead35.jpg",
+        "actorName" : "Shivarajkumar",
+        "movies" : ["Anand","veda","jogi","Janumada Jodi","Bhajarangi"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://www.filmibeat.com/img/popcorn/profile_photos/upendra-20220918122343-3048.jpg",
+        "actorName" : "Upendra",
+        "movies" : ["A","Upendra","Super","H2O","Buddivanta"],
+        "languages" : ""
+    },
+
+    {
+        "actorPhoto" : "https://www.forbesindia.com/media/list/Darshan.jpg",
+        "actorName" : "Darshan",
+        "movies" : ["Dasa","Mejestic","Suntaragali","Bul bul","Kalasipallya"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://www.pinkvilla.com/imageresize/happy_birthday_puneeth_rajkumar.jpg?width=752&t=pvorg",
+        "actorName" : "Puneet Rajkumar",
+        "movies" : ["Appu","Abhi","Milana","Annabond","Pruthvi"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yrxg2kQwdkwV6C1fVg45W7vHkziDqPiflg&usqp=CAU",
+        "actorName" : "Sudeep",
+        "movies" : ["Sparsha","Kashi","Swati muttu","Ranna","Kempegowda"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://superstarsbio.com/wp-content/uploads/2019/07/Yash-simple.jpg",
+        "actorName" : "Yash",
+        "movies" : ["Moggina manasu","Googly","Rajahuli","KGF","Mr & Mrs Ramachari"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://static.toiimg.com/thumb/msid-67959634,imgsize-183270,width-800,height-600,resizemode-75/67959634.jpg",
+        "actorName" : "Ganesh",
+        "movies" : ["Mungarumale","Galipata","Chellata","Chamak","Remo"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://www.themoviedb.org/t/p/w235_and_h235_face/3a1SrG4ZFJvgLzOfNqU9plswWg0.jpg",
+        "actorName" : "Rakshit Shetty",
+        "movies" : ["ulidavaru Kandante","vastu prakar","Charlee 777","Kirik party","Rickey"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://www.filmiforest.com/img/profile_image/prajwal-devaraj.jpg",
+        "actorName" : "Prajwal Devaraj",
+        "movies" : ["Meravanige","jeeva","Gentleman","Sagar","Geleya"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://i2.cinestaan.com/image-bank/1500-1500/177001-178000/177419.jpg",
+        "actorName" : "Dhruva Sarja",
+        "movies" : ["Adduri","Bahaddur","Pogaru","Bharjari","Martin"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://wikibio.in/wp-content/uploads/2019/12/Duniya-Vijay.jpg",
+        "actorName" : "Duniya Vijay",
+        "movies" : ["duniya","Chanda","salaga","RX Suri","Jayammana maga"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://www.veethi.com/images/people/profile/Vijay_Raghavendra.jpeg",
+        "actorName" : "Vijay Raghavendra",
+        "movies" : ["Romeo Juliet","Chinnari mutta","sevanti Sevanti","Rishi","Ninagagi"],
+        "languages" : ""
+    },
+
+    {
+        "actorPhoto" : "https://www.filmibeat.com/img/popcorn/profile_photos/prem-kumar-3529.jpg",
+        "actorName" : "Prem",
+        "movies" : ["Nenapirali","Gunavanta","Jote joteyali","Male","Goutham"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://static.toiimg.com/thumb/61489863.cms?width=170&height=240&imgsize=59235",
+        "actorName" : "Diganth",
+        "movies" : ["Manasare","Pancharangi","Lifeu Ishtene","Barfi","Galipata"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://vijaykarnataka.com/photo/msid-80253088,imgsize-302461/pic.jpg",
+        "actorName" : "Sri Murali",
+        "movies" : ["Ugram","Bharate","Chandra chakori","Yashawanth","madhagaja"],
+        "languages" : "Kannada"
+    },
+
+    {
+        "actorPhoto" : "https://educationfiber.com/wp-content/uploads/2021/08/Education-Fiber-Amitabh-Bachan-1.jpg",
+        "actorName" : "Amitabh bachan",
+        "movies" : ["Don","Sholay","Baghban","Coolie","Deewar"],
+        "languages" : "Hindi"
+    },
+
+    {
+        "actorPhoto" : "https://www.deccanherald.com/sites/dh/files/gallery_images/2022/12/12/Rajinikanth%20Photos%20%281%29.jpg",
+        "actorName" : "Rajanikanth",
+        "movies" : ["Jailer","Robot","Shivaji","Talaphathi","Linga"],
+        "languages" : "Tamil"
+    },
+
+    {
+        "actorPhoto" : "https://www.filmibeat.com/img/popcorn/profile_photos/kamal-haasan-20221107151916-330.jpg",
+        "actorName" : "Kamal hasaan",
+        "movies" : ["Vikram","Vishwaroopam","Chachi 420","Mahanandi","Kadaram Kondan"],
+        "languages" : "Tamil"
+    },
+    {
+        "actorPhoto" : "https://www.bollywoodhungama.com/wp-content/uploads/2022/08/salman620.jpg",
+        "actorName" : "Salman khan",
+        "movies" : ["Dabang","Bodygaurd","Tere naam","Judwa","Ek tha tiger"],
+        "languages" : "Hindi"
+    },
+    {
+        "actorPhoto" : "https://staticimg.amarujala.com/assets/images/2022/11/02/750x506/shahrukh-khan-net-worth_1667370423.jpeg?w=414",
+        "actorName" : "Shaharukh khan",
+        "movies" : ["Baazigar","Om shanti om","DDLJ","Pathan","Deewana"],
+        "languages" : ""
+    }
+]

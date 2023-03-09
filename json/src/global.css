@@ -1,0 +1,16 @@
+.mainBlock{
+    border: 2px solid red;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}

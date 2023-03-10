@@ -1,0 +1,29 @@
+.mainBlock{
+    background-color: darkkhaki;
+    border: 2px solid red;
+    width: 320px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 10px; */
+}
+img{
+    height: 180px;
+    width: 250px;
+    margin-top: 20px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    row-gap: 20px;
+}
+.mainBlock h2{
+    color: blue;
+}
+.heading{
+    color: green;
+    background-color: bisque;
+    font-size: 50px;
+}

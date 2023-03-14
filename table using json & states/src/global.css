@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+table{
+   text-align: center;
+   background-color: rgba(222, 184, 135, 0.596);
+}
+marquee{
+    font-size: 50px;
+    color: crimson;
+    background-color: aqua;
+}
+th{
+    color: blue;
+    font-size: 23px;
+    height: 50px;
+}
+td{
+    font-size: 20px;
+}
+ul{
+    text-align: left;
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "stdName" : "Aditya",
+        "stdId" : 101,
+        "course" : "Engineering",
+        "stream" : "Mech",
+        "subjects" : ["Strength of material", "Dynamics of machines", "Basics of thermodynamic", "Fluid mechanics", "HMT"],
+        "YOP" : 2017
+    },
+    {
+        "stdName" : "Sanjay",
+        "stdId" : 102,
+        "course" : "Engineering",
+        "stream" : "Mech",
+        "subjects" : ["Strength of material", "Dynamics of machines", "Basics of thermodynamic", "Fluid mechanics", "HMT"],
+        "YOP" : 2018
+    },
+    {
+        "stdName" : "Yuvaraj",
+        "stdId" : 103,
+        "course" : "Engineering",
+        "stream" : "E & E",
+        "subjects" : ["Control Engineering", "Circuit Theory", "Electromechanics", "VLSI Technology and Design", "Fundamentals of EE"],
+        "YOP" : 2018
+    },
+    {
+        "stdName" : "Pradeep",
+        "stdId" : 104,
+        "course" : "Engineering",
+        "stream" : "Civil",
+        "subjects" : ["Soil Mechanics.", "Hydraulics", "Design of RC Structures", "Surveying", "Transportation Engineering"],
+        "YOP" : 2017
+    },
+    {
+        "stdName" : "Sairam",
+        "stdId" : 105,
+        "course" : "Engineering",
+        "stream" : "CSE",
+        "subjects" : ["Numerical Analysis ", "Operating Systems", "Computer Networks", "Logic Design", "Artificial Intelligence"],
+        "YOP" : 2019
+    },
+    {
+        "stdName" : "Akshay",
+        "stdId" : 106,
+        "course" : "Engineering",
+        "stream" : "Civil",
+        "subjects" : ["Soil Mechanics.", "Hydraulics", "Design of RC Structures", "Surveying", "Transportation Engineering"],
+        "YOP" : 2020
+    }
+]

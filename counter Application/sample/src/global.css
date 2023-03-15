@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+div{
+    align-items: center;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+.handleChange{
+    height: 40px;
+    width: 150px;
+    font-size: large;
+    background-color: chocolate;
+    border: none;
+    border-radius: 20px;
+}
+.handleNumberChange{
+    height: 40px;
+    width: 200px;
+    margin-left: 50px;
+    font-size: large;
+    background-color: chocolate;
+    border: none;
+    border-radius: 20px;
+}

@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+}
+.mainBlock{
+    text-align: center;
+    margin-top: 120px;
+}
+.buttonDiv{
+    margin-top: 50px;
+}
+.mainBlock h1{
+    font-size: 60px;
+}
+.mainBlock h2{
+    font-size: 50px;
+    color: rgb(88, 88, 190);
+}
+.handleIncrement{
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: orange;
+    color: green;
+}
+.handleDecrement{
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    margin: 40px;
+    background-color: orange;
+    color: red;
+}
+.handleReset{
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: orange;
+    color: yellow
+}

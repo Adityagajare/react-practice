@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+.mainBlock{
+    text-align: center;
+    margin-top: 120px;
+}
+
+button{
+    height: 50px;
+    width: 250px;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: orange;
+    color: green;
+    margin-left: 30px;
+}
+

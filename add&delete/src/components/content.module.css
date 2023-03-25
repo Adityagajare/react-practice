@@ -1,0 +1,76 @@
+.mainBlock{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    align-content: center;
+    height: 500px;
+    width: 700px;
+    background-color: black;
+}
+.subBlock{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.inputfield{
+    height: 30px;
+    width: 200px;
+    margin-right: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-color:  rgb(146, 223, 146);
+    background-color: transparent;
+    color: white;
+}
+.addBtn{
+    background-color: rgb(146, 223, 146);
+    border: none;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 100px;
+}
+.buttonBlock{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.allBtn{
+    height: 30px;
+    border: none;
+    background-color:blue;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 50px;
+}
+.activeBtn{
+    border-color: orange;
+    background-color: transparent;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: orange;
+}
+.inactiveBtn{
+    border-color: orange;
+    background-color: transparent;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: orange;
+}
+.itemlist{
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+    width: 650px;
+
+}
+.itemlist ol li{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+    background-color: rgb(32, 24, 24);
+}
+.checkboxdiv{
+    display: flex;
+}

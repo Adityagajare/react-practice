@@ -17,7 +17,7 @@ class Login extends Component {
     let username = localStorage.getItem('username');
     let password1 = localStorage.getItem('password');
     console.log(username,password1);
-        if ((username === e.target.name.value) && (password1 === e.target.password.value)) {
+        if ((username === this.state.name) && (password1 === this.state.password)) {
             this.setState({error: 'Successfully Logged In'});
         } else {
             this.setState({error: 'Invalid Username or Password'});

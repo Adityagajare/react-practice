@@ -1,0 +1,28 @@
+.container{
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    height: 450px;
+    width: 450px;
+    margin-top: 50px;
+    line-height: 50px;
+    border-radius: 10px;
+}
+.inputfield{
+    height: 30px;
+    width: 300px;
+}
+.container form label{
+    font-size: 20px;
+}
+.container form button{
+    height: 35px;
+    width: 310px;
+    background-color: blue;
+    border: none;
+    color: white;
+    font-size: 17px;
+    border-radius: 10px;
+}

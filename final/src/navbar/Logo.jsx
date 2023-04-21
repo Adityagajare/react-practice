@@ -1,9 +1,10 @@
 import React from 'react'
+import style from "./_navbar.module.css"
 
 const Logo = () => {
   return (
     <div>
-        <h1>PROJECT</h1>
+        <h1 id={style.logo}>Dance Duniya</h1>
     </div>
   )
 }
